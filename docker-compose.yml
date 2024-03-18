@@ -17,11 +17,11 @@ services:
       - VOLUME_DIR_TESTLINK=${VOLUME_DIR_TESTLINK}
 
   mysql_testlink:
-    image: mysql:5.7
+    image: mysql/mysql-server:8.0.23
     ports:
       - 3301:3306
-    volumes:
-      - ${VOLUME_DIR_MYSQL}:/var/lib/mysql
+    # volumes:
+    #  - ${VOLUME_DIR_MYSQL}:/var/lib/mysql
     environment:
       - MYSQL_ROOT_PASSWORD=rootpassword
       - VOLUME_DIR_MYSQL=${VOLUME_DIR_MYSQL}
