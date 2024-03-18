@@ -37,3 +37,5 @@ RUN cat ./apache/ports.conf > /etc/apache2/ports.conf
 
 # create required folders and change owner
 RUN mkdir -p /var/testlink/logs/ mkdir -p /var/testlink/upload_area/ && chown -R www-data /var/testlink/
+
+RUN chown -R www-data /var/testlink/logs/ && chown -R www-data /var/www/html/gui/templates_c
