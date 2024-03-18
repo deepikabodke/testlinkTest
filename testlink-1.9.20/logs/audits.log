@@ -1,0 +1,218 @@
+	[24/Mar/11 08:20:24][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI]
+		Login for 'admin' from '::1' succeeded
+	[24/Mar/11 08:20:35][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Project 'Ring' was created
+	[24/Mar/11 08:20:49][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Project 'Ring' - Test Plan 'Test Plan 1' was created
+	[24/Mar/11 09:38:18][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Project 'Ring' - Test Plan 'Test Plan 1' - Build 'Build 1' was created
+	[24/Mar/11 09:39:39][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Plan 'Test Plan 1' - Milestone 'Milestone 1' was created
+	[24/Mar/11 10:07:44][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-3 : Testcase 3' version 1 was added to Test Plan Test Plan 1
+	[24/Mar/11 10:07:51][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-2 : Testcase 2' version 1 was added to Test Plan Test Plan 1
+	[24/Mar/11 10:07:58][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-1 : Testcase 1' version 1 was added to Test Plan Test Plan 1
+	[24/Mar/11 10:08:35][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-1' has been executed on Build 'Build 1' in the Test Plan 'Test Plan 1'.
+	[24/Mar/11 10:08:46][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-2' has been executed on Build 'Build 1' in the Test Plan 'Test Plan 1'.
+	[24/Mar/11 10:08:51][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-3' has been executed on Build 'Build 1' in the Test Plan 'Test Plan 1'.
+	[24/Mar/11 10:08:54][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-1' has been executed on Build 'Build 1' in the Test Plan 'Test Plan 1'.
+	[24/Mar/11 10:51:11][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Project 'Ring' was saved
+	[24/Mar/11 10:51:30][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Project 'Kissht' was created
+	[24/Mar/11 10:52:49][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		All user roles were unassigned from the Test Project with id 'Kissht'
+	[24/Mar/11 10:52:49][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Project 'Kissht' was deleted
+	[24/Mar/11 10:52:57][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Project 'Ring' was saved
+	[24/Mar/11 10:55:41][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Logout of 'admin'
+	[24/Mar/11 10:55:49][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[24/Mar/12 03:57:57][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Keyword 'login' was created
+	[24/Mar/12 03:58:13][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Keyword 'transaction' was created
+	[24/Mar/12 03:58:33][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Keyword 'login' was deleted - Test Project Ring
+	[24/Mar/12 03:58:35][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Keyword 'transaction' was deleted - Test Project Ring
+	[24/Mar/12 03:58:41][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Keyword 'Sanity' was created
+	[24/Mar/12 03:58:47][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Keyword 'Regression' was created
+	[24/Mar/12 04:14:15][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Keyword 'Regression' was assigned to the Test Case '/Ring/Powerloan/TC_RA-4:Powerloan Onboarding' Version '1' 
+	[24/Mar/12 04:14:15][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Keyword 'Regression' was assigned to the Test Case '/Ring/Powerloan/TC_RA-5:20240312-05:14:15 Powerloan Onboarding' Version '1' 
+	[24/Mar/12 04:14:15][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Keyword 'Sanity' was assigned to the Test Case '/Ring/Powerloan/TC_RA-5:20240312-05:14:15 Powerloan Onboarding' Version '1' 
+	[24/Mar/12 04:16:37][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Project 'Ring' - Test Plan 'Test Plan 2' was created
+	[24/Mar/12 04:17:24][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Project 'Ring' - Test Plan 'Test Plan 1' - Build 'Build 2' was created
+	[24/Mar/12 04:23:14][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-4 : Powerloan Onboarding' version 1 was added to Test Plan Test Plan 2
+	[24/Mar/12 04:23:14][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-5 : 20240312-05:14:15 Powerloan Onboarding' version 1 was added to Test Plan Test Plan 2
+	[24/Mar/12 04:23:47][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Project 'Ring' - Test Plan 'Test Plan 2' - Build 'Build 2' was created
+	[24/Mar/12 04:29:46][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Keyword 'Regression' was assigned to the Test Case '/Ring/Transaction/TC_RA-6:Transaction 1' Version '1' 
+	[24/Mar/12 04:30:06][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Keyword 'Regression' was assigned to the Test Case '/Ring/Transaction/TC_RA-7:Transaction 2' Version '1' 
+	[24/Mar/12 04:30:27][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Keyword 'Regression' was assigned to the Test Case '/Ring/Transaction/TC_RA-8:Transaction 3' Version '1' 
+	[24/Mar/12 04:30:48][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Keyword 'Sanity' was assigned to the Test Case '/Ring/Transaction/TC_RA-9:Transaction 4' Version '1' 
+	[24/Mar/12 04:35:08][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Project 'Ring' - Test Plan 'Test Plan 3' was created
+	[24/Mar/12 04:35:49][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Project 'Ring' - Test Plan 'Test Plan 3' - Build 'Build 1' was created
+	[24/Mar/12 04:36:51][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-6 : Transaction 1' version 1 was added to Test Plan Test Plan 3
+	[24/Mar/12 04:36:51][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-7 : Transaction 2' version 1 was added to Test Plan Test Plan 3
+	[24/Mar/12 04:36:51][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-8 : Transaction 3' version 1 was added to Test Plan Test Plan 3
+	[24/Mar/12 04:36:51][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-9 : Transaction 4' version 1 was added to Test Plan Test Plan 3
+	[24/Mar/12 04:47:15][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Keyword 'Regression' was deleted - Test Project Ring
+	[24/Mar/12 04:47:17][AUDIT][jsfmivp2foljn2ibe15kair9rt][GUI - Test Project ID : 1]
+		Keyword 'Sanity' was deleted - Test Project Ring
+	[24/Mar/12 05:32:49][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[24/Mar/12 05:33:14][AUDIT][1litd51lsth5cdco5mssf9nk2p][GUI - Test Project ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[24/Mar/12 05:57:34][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Keyword 'Regression' was created
+	[24/Mar/12 05:57:38][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Keyword 'Sanity' was created
+	[24/Mar/12 05:58:33][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Project 'Ring' - Test Plan 'Test Plan 3' - Build 'Build 2' was created
+	[24/Mar/12 06:00:32][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Keyword 'Regression' was assigned to the Test Case '/Ring/Powerloan/TC_RA-4:Powerloan Onboarding' Version '' 
+	[24/Mar/12 06:01:10][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Keyword 'Sanity' was assigned to the Test Case '/Ring/Powerloan/TC_RA-5:20240312-05:14:15 Powerloan Onboarding' Version '' 
+	[24/Mar/12 06:05:54][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Keyword 'Regression' was assigned to the Test Case '/Ring/Transaction/TC_RA-10:Transaction 5' Version '1' 
+	[24/Mar/12 07:03:02][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Project 'Kissht' was created
+	[24/Mar/12 07:08:20][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Project 'Ring' - Requirement specification 'This is requirement 1' was created
+	[24/Mar/12 07:14:42][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Keyword 'Regression' was assigned to the Test Case '/Ring/Homescreen/TC_RA-11:Homescreen test 1' Version '1' 
+	[24/Mar/12 07:17:24][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Keyword 'Regression' was assigned to the Test Case '/Ring/Homescreen/TC_RA-12:20240312-08:17:14 Homescreen test 1' Version '1' 
+	[24/Mar/12 07:18:07][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Keyword 'Regression' was unassigned from Test Case 'Homescreen test 1'
+	[24/Mar/12 07:18:11][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Keyword 'Sanity' was assigned to the Test Case '/Ring/Homescreen/TC_RA-11:Homescreen test 1' Version '' 
+	[24/Mar/12 07:20:11][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Project 'Ring' - Test Plan 'Test Plan 4' was created
+	[24/Mar/12 07:21:16][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Project 'Ring' - Test Plan 'Test Plan 4' - Build 'Build 1 for test plan 4' was created
+	[24/Mar/12 07:24:45][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-12 : Homescreen test 2' version 1 was added to Test Plan Test Plan 4
+	[24/Mar/12 07:24:45][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-11 : Homescreen test 1' version 1 was added to Test Plan Test Plan 4
+	[24/Mar/12 09:05:34][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-6' has been executed on Build 'Build 1' in the Test Plan 'Test Plan 3'.
+	[24/Mar/12 09:10:35][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Bug 'RA-1103' was added during execution
+	[24/Mar/12 09:26:41][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-12' has been executed on Build 'Build 1 for test plan 4' in the Test Plan 'Test Plan 4'.
+	[24/Mar/12 09:30:03][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Bug 'RA-644' was added during execution
+	[24/Mar/12 09:32:14][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Custom field 'Custom-StoryId' was created
+	[24/Mar/12 09:58:15][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Project 'Ring' - Test Plan 'Test Plan 5' was created
+	[24/Mar/12 09:58:37][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Project 'Ring' - Test Plan 'Test Plan 5' - Build 'Build 1 for plan 5' was created
+	[24/Mar/12 10:03:01][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-12 : Homescreen test 2' version 1 was added to Test Plan Test Plan 5 - Platform:Preprod
+	[24/Mar/12 10:03:01][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-11 : Homescreen test 1' version 1 was added to Test Plan Test Plan 5 - Platform:QA
+	[24/Mar/12 10:03:06][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-4 : Powerloan Onboarding' version 1 was added to Test Plan Test Plan 5 - Platform:QA
+	[24/Mar/12 10:03:06][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-5 : 20240312-05:14:15 Powerloan Onboarding' version 1 was added to Test Plan Test Plan 5 - Platform:QA
+	[24/Mar/12 10:03:12][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-1 : Testcase 1' version 1 was added to Test Plan Test Plan 5 - Platform:Preprod
+	[24/Mar/12 10:03:12][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-2 : Testcase 2' version 1 was added to Test Plan Test Plan 5 - Platform:Preprod
+	[24/Mar/12 10:03:12][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-3 : Testcase 3' version 1 was added to Test Plan Test Plan 5 - Platform:QA
+	[24/Mar/12 10:03:21][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-6 : Transaction 1' version 1 was added to Test Plan Test Plan 5 - Platform:Preprod
+	[24/Mar/12 10:03:21][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-7 : Transaction 2' version 1 was added to Test Plan Test Plan 5 - Platform:QA
+	[24/Mar/12 10:03:21][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-8 : Transaction 3' version 1 was added to Test Plan Test Plan 5 - Platform:Preprod
+	[24/Mar/12 10:03:21][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-9 : Transaction 4' version 1 was added to Test Plan Test Plan 5 - Platform:Preprod
+	[24/Mar/12 10:03:21][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-10 : Transaction 5' version 1 was added to Test Plan Test Plan 5 - Platform:QA
+	[24/Mar/12 10:05:05][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-12' has been executed on Build 'Build 1 for plan 5' in the Test Plan 'Test Plan 5'.
+	[24/Mar/12 10:05:16][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-1' has been executed on Build 'Build 1 for plan 5' in the Test Plan 'Test Plan 5'.
+	[24/Mar/12 10:05:19][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-2' has been executed on Build 'Build 1 for plan 5' in the Test Plan 'Test Plan 5'.
+	[24/Mar/12 10:05:23][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-6' has been executed on Build 'Build 1 for plan 5' in the Test Plan 'Test Plan 5'.
+	[24/Mar/12 10:05:25][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-8' has been executed on Build 'Build 1 for plan 5' in the Test Plan 'Test Plan 5'.
+	[24/Mar/12 10:05:27][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-9' has been executed on Build 'Build 1 for plan 5' in the Test Plan 'Test Plan 5'.
+	[24/Mar/12 10:07:25][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 33]
+		Login for 'admin' from '::1' succeeded
+	[24/Mar/13 03:33:20][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Logout of 'admin'
+	[24/Mar/13 03:33:31][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[24/Mar/13 04:21:41][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-1' has been executed on Build 'Build 1 for plan 5' in the Test Plan 'Test Plan 5'.
+	[24/Mar/13 04:21:51][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-6' has been executed on Build 'Build 1 for plan 5' in the Test Plan 'Test Plan 5'.
+	[24/Mar/13 05:08:22][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-12' has been executed on Build 'Build 1 for plan 5' in the Test Plan 'Test Plan 5'.
+	[24/Mar/13 05:08:26][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-2' has been executed on Build 'Build 1 for plan 5' in the Test Plan 'Test Plan 5'.
+	[24/Mar/13 06:47:21][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[24/Mar/13 06:48:10][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Project 'Ring' - Test Plan 'Test Plan 5' - Build 'Build 2' was created
+	[24/Mar/13 06:49:24][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-4 : Powerloan Onboarding' version 1 was added to Test Plan Test Plan 5 - Platform:Preprod
+	[24/Mar/13 06:49:24][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-5 : 20240312-05:14:15 Powerloan Onboarding' version 1 was added to Test Plan Test Plan 5 - Platform:Preprod
+	[24/Mar/13 06:50:31][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-12' has been executed on Build 'Build 2' in the Test Plan 'Test Plan 5'.
+	[24/Mar/13 06:50:37][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-5' has been executed on Build 'Build 2' in the Test Plan 'Test Plan 5'.
+	[24/Mar/13 06:50:45][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-4' has been executed on Build 'Build 2' in the Test Plan 'Test Plan 5'.
+	[24/Mar/13 06:50:50][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-1' has been executed on Build 'Build 2' in the Test Plan 'Test Plan 5'.
+	[24/Mar/13 06:50:55][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-2' has been executed on Build 'Build 2' in the Test Plan 'Test Plan 5'.
+	[24/Mar/13 06:50:59][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-8' has been executed on Build 'Build 2' in the Test Plan 'Test Plan 5'.
+	[24/Mar/13 06:51:03][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-6' has been executed on Build 'Build 2' in the Test Plan 'Test Plan 5'.
+	[24/Mar/13 06:51:07][AUDIT][ho887vagd1ocnlu1oec7g0a6ih][GUI - Test Project ID : 1]
+		Test Case 'TC_RA-9' has been executed on Build 'Build 2' in the Test Plan 'Test Plan 5'.
+	[24/Mar/15 05:46:51][AUDIT][3romtq74nd670a3qlqd0fmg3in][GUI - Test Project ID : 33]
+		Login for 'admin' from '::1' succeeded
+	[24/Mar/15 10:17:13][AUDIT][3romtq74nd670a3qlqd0fmg3in][GUI - Test Project ID : 1]
+		Bug 'RA-1050' was added during execution

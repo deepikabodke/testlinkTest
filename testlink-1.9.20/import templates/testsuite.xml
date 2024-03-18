@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Powerloan">
+  <details><![CDATA[]]></details>
+  <testcase name="Powerloan Onboarding">
+<summary><![CDATA[<p>To verify powerloan onboarding</p>]]></summary> 
+<steps><![CDATA[<p>1. Enter Mobile number \n 2. Enter OTP \n 3. Enter personla details</p>]]></steps> 
+<expectedresults><![CDATA[<p>User should be successfully be able to login</p>]]></expectedresults>
+ <keywords>
+      <keyword name="Regression">
+         <notes><![CDATA[]]></notes>
+      </keyword>
+    </keywords>
+  </testcase>
+  <testcase name="Powerloan Onboarding">
+<summary><![CDATA[<p>To verify powerloan onboarding</p>]]></summary>
+ <steps><![CDATA[<p>1. Enter Mobile number \n 2. Enter OTP \n 3. Enter personla details</p>]]></steps> 
+ <expectedresults><![CDATA[<p>User should be successfully be able to do transaction</p>]]></expectedresults> 
+ <keywords>
+      <keyword name="Regression">
+        <notes><![CDATA[]]></notes>
+      </keyword>
+      <keyword name="Sanity">
+        <notes><![CDATA[]]></notes>
+      </keyword>
+    </keywords>
+  </testcase>
+</testsuite>

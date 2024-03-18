@@ -1,0 +1,468 @@
+[<<][65f0291d4d347273947185][DEFAULT][/testlink-1.9.20/lnl.php][24/Mar/12 10:06:21][24/Mar/12 10:06:21][took 0.00036200000000003 secs]
+[<<][65f0291d51f80076586975][DEFAULT][/testlink-1.9.20/lib/results/charts.php][24/Mar/12 10:06:21][24/Mar/12 10:06:21][took 0.019873 secs]
+[>>][65f0291d56e0d237734170][DEFAULT][/testlink-1.9.20/lib/results/charts.php][24/Mar/12 10:06:21]
+[<<][65f0291d56e0d237734170][DEFAULT][/testlink-1.9.20/lib/results/charts.php][24/Mar/12 10:06:21][24/Mar/12 10:06:21][took 0.020186 secs]
+[<<][65f0291d6047c577172683][DEFAULT][/lib/results/overallPieChart.php][24/Mar/12 10:06:21][24/Mar/12 10:06:21][took 0.025278 secs]
+[>>][65f0291d66834059242590][DEFAULT][/lib/results/overallPieChart.php][24/Mar/12 10:06:21]
+[<<][65f0291d66834059242590][DEFAULT][/lib/results/overallPieChart.php][24/Mar/12 10:06:21][24/Mar/12 10:06:21][took 0.020628 secs]
+[<<][65f0291d605c2284920527][DEFAULT][/lib/results/platformPieChart.php][24/Mar/12 10:06:21][24/Mar/12 10:06:21][took 0.056591 secs]
+[>>][65f0291d6e38c035309439][DEFAULT][/lib/results/platformPieChart.php][24/Mar/12 10:06:21]
+[<<][65f0291d6e38c035309439][DEFAULT][/lib/results/platformPieChart.php][24/Mar/12 10:06:21][24/Mar/12 10:06:21][took 0.020635 secs]
+[<<][65f0291d6431a477425310][DEFAULT][/lib/results/keywordBarChart.php][24/Mar/12 10:06:21][24/Mar/12 10:06:21][took 0.073019 secs]
+[>>][65f0291d7612b365369033][DEFAULT][/lib/results/keywordBarChart.php][24/Mar/12 10:06:21]
+[<<][65f0291d7612b365369033][DEFAULT][/lib/results/keywordBarChart.php][24/Mar/12 10:06:21][24/Mar/12 10:06:21][took 0.026014 secs]
+[<<][65f0291d644c7190833974][DEFAULT][/lib/results/topLevelSuitesBarChart.php][24/Mar/12 10:06:21][24/Mar/12 10:06:21][took 0.110115 secs]
+[>>][65f0291d7f3ab305442880][DEFAULT][/lib/results/topLevelSuitesBarChart.php][24/Mar/12 10:06:21]
+[<<][65f0291d7f3ab305442880][DEFAULT][/lib/results/topLevelSuitesBarChart.php][24/Mar/12 10:06:21][24/Mar/12 10:06:21][took 0.022476 secs]
+[<<][65f0291d6473b822239786][DEFAULT][/lib/results/platformPieChart.php][24/Mar/12 10:06:21][24/Mar/12 10:06:21][took 0.143101 secs]
+[>>][65f0291d87706430303739][DEFAULT][/lib/results/platformPieChart.php][24/Mar/12 10:06:21]
+[<<][65f0291d87706430303739][DEFAULT][/lib/results/platformPieChart.php][24/Mar/12 10:06:21][24/Mar/12 10:06:21][took 0.019972 secs]
+[<<][65f029579535e971151553][DEFAULT][/lib/results/printDocOptions.php][24/Mar/12 10:07:19][24/Mar/12 10:07:19][took 0.037018 secs]
+[>>][65f029579e716786369380][DEFAULT][/lib/results/printDocOptions.php][24/Mar/12 10:07:19]
+[<<][65f029579e716786369380][DEFAULT][/lib/results/printDocOptions.php][24/Mar/12 10:07:19][24/Mar/12 10:07:19][took 0.00097400000000003 secs]
+[<<][65f02957a6eb7587161072][DEFAULT][/testlink-1.9.20/login.php][24/Mar/12 10:07:19][24/Mar/12 10:07:19][took 0.023163 secs]
+[>>][65f02957aca25421944732][DEFAULT][/testlink-1.9.20/login.php][24/Mar/12 10:07:19]
+[<<][65f14b53636c1103185714][DEFAULT][/testlink-1.9.20/lnl.php][24/Mar/13 06:44:35][24/Mar/13 06:44:35][took 0.000664 secs]
+[<<][65f14b5368228691426795][DEFAULT][/testlink-1.9.20/lib/results/charts.php][24/Mar/13 06:44:35][24/Mar/13 06:44:35][took 0.021191 secs]
+[>>][65f14b536d5f7273121044][DEFAULT][/testlink-1.9.20/lib/results/charts.php][24/Mar/13 06:44:35]
+[<<][65f14b536d5f7273121044][DEFAULT][/testlink-1.9.20/lib/results/charts.php][24/Mar/13 06:44:35][24/Mar/13 06:44:35][took 0.024096 secs]
+[<<][65f14b5378619371995918][DEFAULT][/lib/results/platformPieChart.php][24/Mar/13 06:44:35][24/Mar/13 06:44:35][took 0.022447 secs]
+[>>][65f14b537debe876597741][DEFAULT][/lib/results/platformPieChart.php][24/Mar/13 06:44:35]
+[<<][65f14b537debe876597741][DEFAULT][/lib/results/platformPieChart.php][24/Mar/13 06:44:35][24/Mar/13 06:44:35][took 0.047014 secs]
+[<<][65f14b537861f360448076][DEFAULT][/lib/results/overallPieChart.php][24/Mar/13 06:44:35][24/Mar/13 06:44:35][took 0.080683 secs]
+[>>][65f14b538c205396590376][DEFAULT][/lib/results/overallPieChart.php][24/Mar/13 06:44:35]
+[<<][65f14b538c205396590376][DEFAULT][/lib/results/overallPieChart.php][24/Mar/13 06:44:35][24/Mar/13 06:44:35][took 0.041182 secs]
+[<<][65f14b537cfe5946436660][DEFAULT][/lib/results/topLevelSuitesBarChart.php][24/Mar/13 06:44:35][24/Mar/13 06:44:35][took 0.114435 secs]
+[>>][65f14b5399005182839243][DEFAULT][/lib/results/topLevelSuitesBarChart.php][24/Mar/13 06:44:35]
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 545
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 545
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 547
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 547
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 549
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 549
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 551
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 551
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 553
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 553
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 545
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 545
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 547
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 547
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 549
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 549
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 551
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 551
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 553
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 553
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 545
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 545
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 547
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 547
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 549
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 549
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 551
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 551
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 553
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 553
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 545
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 545
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 547
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 547
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 549
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 549
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 551
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 551
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 553
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 553
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 545
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 545
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 547
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 547
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 549
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 549
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 551
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 551
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 553
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 553
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 595
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 595
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 597
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 597
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 599
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 599
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 601
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 601
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 603
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 603
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 595
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 595
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 597
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 597
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 599
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 599
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 601
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 601
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 603
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 603
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 595
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 595
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 597
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 597
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 599
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 599
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 601
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 601
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 603
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 603
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 595
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 595
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 597
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 597
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 599
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 599
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 601
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 601
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 603
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 603
+[<<][65f14b5399005182839243][DEFAULT][/lib/results/topLevelSuitesBarChart.php][24/Mar/13 06:44:35][24/Mar/13 06:44:35][took 0.078126 secs]
+[<<][65f14b537cffd699840230][DEFAULT][/lib/results/keywordBarChart.php][24/Mar/13 06:44:35][24/Mar/13 06:44:35][took 0.204817 secs]
+[>>][65f14b53af147693264909][DEFAULT][/lib/results/keywordBarChart.php][24/Mar/13 06:44:35]
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 545
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 545
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 547
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 547
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 549
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 549
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 551
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 551
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 553
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 553
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 545
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 545
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 547
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 547
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 549
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 549
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 551
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 551
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 553
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 553
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 545
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 545
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 547
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 547
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 549
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 549
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 551
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 551
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 553
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 553
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 595
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 595
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 597
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 597
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 599
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 599
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 601
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 601
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 603
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 603
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 595
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 595
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 597
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 597
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 599
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 599
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 601
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 601
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Undefined array key "Format" - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 603
+	[24/Mar/13 06:44:35][WARNING][<nosession>][GUI]
+		E_WARNING
+Trying to access array offset on value of type null - in /Applications/XAMPP/xamppfiles/htdocs/testlink-1.9.20/third_party/pchart/pChart/pChart.class - Line 603
+[<<][65f14b53af147693264909][DEFAULT][/lib/results/keywordBarChart.php][24/Mar/13 06:44:35][24/Mar/13 06:44:35][took 0.076485 secs]
+[<<][65f14b537d101189582357][DEFAULT][/lib/results/platformPieChart.php][24/Mar/13 06:44:35][24/Mar/13 06:44:35][took 0.292624 secs]
+[>>][65f14b53c48db311606631][DEFAULT][/lib/results/platformPieChart.php][24/Mar/13 06:44:35]
+[<<][65f14b53c48db311606631][DEFAULT][/lib/results/platformPieChart.php][24/Mar/13 06:44:35][24/Mar/13 06:44:35][took 0.042316 secs]
+[<<][65f14bf3e180f047787461][DEFAULT][/lib/results/printDocOptions.php][24/Mar/13 06:47:15][24/Mar/13 06:47:15][took 0.025685 secs]
+[>>][65f14bf3e832a298580733][DEFAULT][/lib/results/printDocOptions.php][24/Mar/13 06:47:15]
+[<<][65f14bf3e832a298580733][DEFAULT][/lib/results/printDocOptions.php][24/Mar/13 06:47:15][24/Mar/13 06:47:15][took 0.001062 secs]
+[<<][65f14bf3eff06252711887][DEFAULT][/testlink-1.9.20/login.php][24/Mar/13 06:47:15][24/Mar/13 06:47:16][took 0.020154 secs]
+[>>][65f14bf400c5a623659111][DEFAULT][/testlink-1.9.20/login.php][24/Mar/13 06:47:16]
