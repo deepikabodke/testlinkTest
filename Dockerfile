@@ -30,3 +30,10 @@ COPY . ./
 
 # change owner of all files so apache can write to it
 RUN chown -R www-data *
+
+
+# update apache port config (because TestLink needs to use 8080)
+RUN cat ./apache/ports.conf > /etc/apache2/ports.conf
+
+# create required folders and change owner
+RUN mkdir -p /var/testlink/logs/ mkdir -p /var/testlink/upload_area/ && chown -R www-data /var/testlink/
