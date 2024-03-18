@@ -101,7 +101,7 @@ function getUserList(&$db,$db_type)
       break;
       
       case 'postgres':
-      $result = $db->exec_query('SELECT DISTINCT usename AS user FROM pg_user');
+      //$result = $db->exec_query('SELECT DISTINCT usename AS user FROM pg_user');
       break;
    
       case 'mssql':
@@ -253,7 +253,7 @@ switch($db_type) {
     case 'mysql':
     case 'mysqli':
     @$conn_res = $db->connect(NO_DSN, $db_server, $db_admin_name, $db_admin_pass, 'mysql'); 
-    $try_create_user=1;
+    //$try_create_user=1;
     break;
 
     default:
@@ -296,7 +296,7 @@ if ($try_create_user==1 && !is_null($user_list) && count($user_list) > 0)
         // for MySQL making the user and assign right is the same operation
         // But I've modified _mysql_make_user in order to create user
         // and assign rights
-        $op = _mysql_make_user($db,$the_host,$db_name,$login,$passwd);
+        //$op = _mysql_make_user($db,$the_host,$db_name,$login,$passwd);
         break;
 
       }  
@@ -308,7 +308,7 @@ if ($try_create_user==1 && !is_null($user_list) && count($user_list) > 0)
       switch($db_type) {
         case 'mysql':
         case 'mysqli':
-        $op = _mysql_assign_grants($db,$the_host,$db_name,$login,$passwd);
+        //$op = _mysql_assign_grants($db,$the_host,$db_name,$login,$passwd);
         break;
         
         case 'postgres':
@@ -540,7 +540,7 @@ function _mysql_make_user($dbhandler,$db_host,$db_name,$login,$passwd) {
     $op->status_ok=false;
   } else {
     // Assign Grants!!
-    $op = _mysql_assign_grants($dbhandler,$db_host,$db_name,$login,$passwd);
+    //$op = _mysql_assign_grants($dbhandler,$db_host,$db_name,$login,$passwd);
   }
        
   return $op; 
