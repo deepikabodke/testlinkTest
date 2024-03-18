@@ -308,7 +308,7 @@ $tlCfg->smarty_debug = false;
  *  for security reasons (see http://itsecuritysolutions.org/2012-08-13-TestLink-1.9.3-multiple-vulnerabilities/)
  *  put it out of reach via web or configure access denied.
  */
-$tlCfg->log_path = '/var/testlink/logs/'; /* unix example */
+$tlCfg->log_path = '/var/www/html/logs/'; /* unix example */
 if (($lp = getenv('TESTLINK_LOG_PATH'))) {
   $tlCfg->log_path = trim($lp);
 }
