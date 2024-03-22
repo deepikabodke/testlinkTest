@@ -1504,7 +1504,7 @@ $tlCfg->attachments->access_string = "[*]";
  * Files that are allowed.  Separate items by commas.
  * eg. 'doc,xls,gif,png,jpg'
  */
-$tlCfg->attachments->allowed_files = 'doc,xls,gif,png,jpg,xlsx,csv';
+$tlCfg->attachments->allowed_files = 'doc,xls,gif,png,jpg,xlsx,csv,jpeg';
 
 
 /**
@@ -1516,7 +1516,8 @@ $tlCfg->attachments->allowed_files = 'doc,xls,gif,png,jpg,xlsx,csv';
  * NO CHECK if -> $g_attachments->allowed_filenames_regexp = '';
  *
  */
-$tlCfg->attachments->allowed_filenames_regexp = '/^[a-zA-Z0-9_-]{1,20}\.[a-zA-Z0-9]{1,10}$/';
+// $tlCfg->attachments->allowed_filenames_regexp = '/^[a-zA-Z0-9_-]{1,20}\.[a-zA-Z0-9]{1,10}$/';
+$tlCfg->attachments->allowed_filenames_regexp = '';
 
 
 /** the type of the repository can be database or filesystem
